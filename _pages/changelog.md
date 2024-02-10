@@ -6,10 +6,10 @@ include_in_header: true
 
 # Tarifs
 
-Entre la complexité de la gestion en ligne et les besoins croissants des clients, réussir dans le monde de la vente en ligne est un défi majeur.
-WELTARE Strategies vous aide, vous, les entrepreneurs et les PME, à atteindre vos objectifs avec une solution tout-en-un. À l'aide de notre plateforme, vous pouvez transformer votre présence sur les réseaux sociaux en opportunités de vente, tout en offrant une assistance 24/7 grâce à notre chatbot intégré.
-Avec notre expertise, il est possible de souscrire aux services optionnels qui vous permettront de construire l'offre sur mesure adaptée à votre problématique. Vous aussi, vous pouvez réussir avec nous.
-Prêt à simplifier votre expérience de vente en ligne ? Faites le premier pas aujourd'hui !
+Supprimez les frictions liées à la collecte de fonds.
+Ethercourt vous aide, votre communauté et vos investisseurs, à conclure vos investissements avec une solution tout-en-un. À l'aide de notre plateforme, vous pouvez transformer votre présence sur les réseaux sociaux en opportunités d'investissement, tout en offrant une assistance 24/7 grâce à notre chatbot intégré.
+Avec notre expertise, il est possible de souscrire aux services optionnels qui vous permettront de structurer votre capital et le partager avec vos investisseurs.
+Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 
 <br>
 
