@@ -36,11 +36,11 @@ mastodon_link                             : # https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Quoi ?
-    description                           : Le seul assistant virtuel de relation client simple d’utilisation qui permet à votre communauté de trouver rapidement l'accès à votre livre blanc, vos actions ou vos documents confidentiels (documents financiers, juridiques, opérationnels ou ceux liés aux transactions tels que due diligence...).
+    description                           : Le seul assistant virtuel de Relations Investisseurs simple d’utilisation qui permet à votre communauté de trouver rapidement l'accès à vos livres blancs, vos actions ou vos documents confidentiels (documents financiers, juridiques, opérationnels ou ceux liés aux transactions tels que due diligence...).
     fontawesome_icon_name                 : robot
     
   - title                                 : Pourquoi ?
-    description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificielle pour radicalement fluidifier le parcours de vos clients sur vos réseaux sociaux afin d'améliorer votre stratégie de conversion.
+    description                           : Le but de notre chatbot est de permettre de profiter de la révolution de l'Intelligence Artificielle pour radicalement fluidifier le parcours de votre communauté sur vos réseaux sociaux, afin de les convertir en investisseurs.
     fontawesome_icon_name                 : comments-dollar
 
   - title                                 : Combien ?
