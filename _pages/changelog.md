@@ -13,18 +13,18 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 
 <br>
 
-| Fonctionnalité           | [Offre Premium](https://weltare.github.io/strategies/changelog/#offre-premium)                 | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)               |
-|-------------------------|-------------------------------|--------------------------------:|
-| Chatbot E-commerce : 1ère configuration + Abonnement mensuel       | [0 € + (1 238 €/ mois)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5BT63185EC110322HMWDBBGA)                         | [691 € + (1 238 €/ mois)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY) |
-| Intelligence Artificielle dédiée Satisfaction Client        | Inclus                     | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) |
-| Optimisation Page Entreprise    | Inclus                         | [384 €](https://py.pl/23lYLEpIdvO)                         |
-| Optimisation Pages Produits | Inclus                   | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                         |
-| Présentation des avantages concurrentiels           | Inclus                         | [96 €](https://py.pl/VkjieaAABv)                         |
-| Mise à jour des Liens    | Inclus                         | [38 €](https://py.pl/frMKn)                         |
-| Services d'accélération d'entreprise | Inclus                  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)                         |
-| Services sponsorisés    | Inclus                         | [79 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                         |
-| Services Datascience         | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                     | [1500 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-6A595167CV919922BMWY5YZA) |
-| Paiements sécurisés en Ligne       | 15 %                         | 15 %                         |
+| Fonctionnalité                                                     | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)                                          |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------:|
+| Chatbot E-commerce : 1ère configuration + Abonnement mensuel       |  [691 € + (1 238 €/ mois)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY)         |
+| Intelligence Artificielle dédiée Satisfaction Client               | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)                      |
+| Optimisation Page Entreprise                                       | [384 €](https://py.pl/23lYLEpIdvO)                                                                                            |
+| Optimisation Pages Produits                                        | [173 €](https://www.paypal.com/instantcommerce/checkout/undefined)                                                            |
+| Présentation des avantages concurrentiels                          | [96 €](https://py.pl/VkjieaAABv)                                                                                              |
+| Mise à jour des Liens                                              | [38 €](https://py.pl/frMKn)                                                                                                   |
+| Services d'accélération d'entreprise | Inclus                      | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)                      |
+| Services sponsorisés                                               | [79 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5KF18983MA565821GMWO4S7I)                       |
+| Services Datascience                                               | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
+| Paiements sécurisés en Ligne                                       | 15 %                                                                                                                          |            
 
 
 <br>
