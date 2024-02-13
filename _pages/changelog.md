@@ -16,14 +16,14 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Fonctionnalité                                                     | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)                                          |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------:|
 | Chatbot Scale-up (1ère configuration + Abonnement mensuel)       |  [691 € + (1 238 €/ mois)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY)         |
-| Intelligence Artificielle dédiée Satisfaction Client               | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)                      |
-| Rédaction FAQ client (Optimisation Pages Produits)                                        | [243 €]()                                                            |
-| Rédaction FAQ  Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
-| Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                                                            |
-| Rédaction du Business Model Canvas (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)                               |
+| Assistant conversationnel personnalisé  | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)  |
+| Guide d'intégration Clients (Optimisation Pages Produits)                                        | [243 €]() |
+| Guide d'intégration Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
+| Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                         |
+| Rédaction du Business Model Canvas (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)        |
 | IA Dataroom (Mise à jour des Liens)                                              | [281 €/ investisseur/ mois]()                                    |
-| Services d'accélération d'entreprise                      | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)                      |
-| Services Datascience                                               | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
+| Services d'accélération d'entreprise  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
+| Services Datascience  | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
 
 
 <br>
