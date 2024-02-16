@@ -29,32 +29,6 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 
 
 ________
-<br>
-
-# Offre sur mesure : **Création d'assistants conversationnels à la demande**
-Nous pouvons créer un chatbot personnalisé pour votre cas d'utilisation spécifique. Utilisez le tableau plus haut pour obtenir des estimations. Le prix final dépendra de la taille et de l'échelle de votre chatbot.
-Nous contacter pour plus d'informations sur nos différentes offres.
-
-[![sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/1fe118f3-61cb-4136-b9c0-30ddf96312b2)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)
-
-<br>
-
-### Avant : L'Époque des Interactions Limitées, un Défi Persistant
-
-Dans le paysage dynamique des réseaux sociaux, les entreprises étaient confrontées à un défi de taille : établir des connexions significatives avec leur audience. Les interactions limitées et la difficulté à capter l'attention de manière efficace étaient monnaie courante. Les marques se perdaient dans le bruit numérique, laissant place à des opportunités manquées.
-
-### Notre Solution : Une Stratégie Révolutionnaire avec le Chatbot Sur-Mesure
-
-C'est ici qu'intervient notre solution innovante : le Chatbot sur-mesure a été conçue pour métamorphoser la manière dont les marques interagissent sur les réseaux sociaux.
-
-### Après : Une Interaction Redéfinie, une Présence Sociale Amplifiée
-
-Avec l'implémentation de notre Chatbot sur-mesure, l'interaction sur les réseaux sociaux atteint de nouveaux sommets. Les marques bénéficient d'une présence sociale amplifiée, avec des réponses automatisées, personnalisées et instantanées. Notre solution a redéfini l'interaction, offrant aux entreprises une plateforme dynamique pour engager leur audience de manière authentique.
-
-
-## [`Je commande`](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY) Un Chatbot Personnalisé pour mes réseaux sociaux
-
-<br>
 
 [![Entreprise de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/aed846ec-455a-425b-9126-05debebf79ff)](https://py.pl/23lYLEpIdvO)
 
