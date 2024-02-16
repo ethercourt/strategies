@@ -15,7 +15,6 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 
 | Fonctionnalité                                                     | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)                                          |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------:|
-| Chatbot Scale-up (1ère configuration + Abonnement mensuel)       |  [691 € + (1 238 €/ mois)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5DE87961K2769513CMWTXOMY)         |
 | Assistant conversationnel personnalisé  | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)  |
 | Guide d'intégration Clients (Optimisation Pages Produits)                                        | [243 €]() |
 | Guide d'intégration Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
