@@ -21,7 +21,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Guide d'intégration Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
 | Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                         |
 | Rédaction du Business Model Canvas (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)        |
-| IA Dataroom (Mise à jour des Liens)                                              | [281 €/ investisseur/ mois]()                                    |
+| Assistant conversationnel personnalisé Dataroom (Mise à jour des Liens)                                              | [188 €/ mois]()                                    |
 | Services d'accélération d'entreprise  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
 | Services Datascience  | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
 
