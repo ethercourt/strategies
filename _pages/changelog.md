@@ -30,7 +30,24 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 
 ________
 
+![Copie de Abonnement  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/aa34eaba-5a08-4bae-8578-4f3ce23c1a9a)
 
+
+### Avant
+
+Avant la découverte de notre assistant conversationnel personnalisé, les processus d'onboarding des utilisateurs étaient souvent laborieux et déconnectés. Les nouveaux utilisateurs étaient confrontés à des expériences d'intégration standardisées et impersonnelles, ce qui entraînait une baisse d'engagement et une augmentation du taux de rotation du personnel. Les gestionnaires étaient submergés par les tâches administratives, incapables de consacrer suffisamment de temps à créer des liens significatifs avec les nouveaux utilisateurs.
+
+### Notre solution
+
+Avec notre assistant conversationnel personnalisé, tout change. Notre plateforme révolutionnaire transforme l'onboarding des utilisateurs en une expérience immersive et mémorable. Notre assistant offre un moyen innovant de connecter les utilisateurs dès leur première expérience, en créant des moments authentiques de connexion et de découverte qui renforcent le sentiment d'appartenance et stimulent l'enthousiasme.
+
+### Après
+
+Grâce à notre assistant conversationnel personnalisé, les entreprises témoignent d'une diminution significative du taux de départ des utilisateurs, d'une augmentation de l'adoption des solutions en ligne et d'une réduction des abandons précoces. Les processus d'onboarding sont désormais personnalisés, évolutifs et axés sur l'humain, favorisant une culture d'inclusion et renforçant la réputation de l'entreprise. Les gestionnaires sont soutenus par des outils simples et puissants qui les aident à créer des expériences d'onboarding cohérentes et inoubliables, jetant ainsi les bases d'une relation durable avec leurs utilisateurs.
+
+## [`Je commande`]() Un Assistant Conversationnel personnalisé
+
+<br>
 
 [![Produits de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/2453dcbe-8dfc-44c8-ba1c-790496ff74b6)](https://py.pl/VkjieaAABv)
 
