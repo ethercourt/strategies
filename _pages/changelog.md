@@ -16,7 +16,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Fonctionnalité                                                     | [Offre sur Mesure](https://weltare.github.io/strategies/changelog/#offre-sur-mesure)                                          |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------:|
 | Assistant conversationnel personnalisé  | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)  |
-| Documentation du Parcours Client (Optimisation Pages Produits)                                        | [243 €]() |
+| Documentation du Parcours Client                                        | [83 €]() |
 | Carte d'expérience Clients (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)        |
 | Assistant conversationnel personnalisé Dataroom (Mise à jour des Liens)                                              | [188 €/ mois]()                                    |
 | Carte d'expérience Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
