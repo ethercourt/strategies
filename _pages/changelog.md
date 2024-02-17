@@ -19,7 +19,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Parcours Client (Optimisation Pages Produits)                                        | [243 €]() |
 | Carte d'expérience Clients (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)        |
 | Assistant conversationnel personnalisé Dataroom (Mise à jour des Liens)                                              | [188 €/ mois]()                                    |
-| Guide d'intégration Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
+| Carte d'expérience Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
 | Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                         |
 | Services d'accélération d'entreprise  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
 | Services Datascience  | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
