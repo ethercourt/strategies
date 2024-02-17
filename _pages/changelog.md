@@ -57,7 +57,7 @@ Avant l'intégration de la Documentation de votre Parcours Client, les entrepris
 
 ### Notre solution
 
-Avec la Documentation de votre Parcours Client, les données proviennent désormais des bases de connaissances plutôt que des intégrations dispersées. Elle transforme un simple assistant conversationnel en chatbot d'intégration client, fournissant ainsi une expérience fluide et éclairante. L'orchestration automatisée du parcours client devient une réalité, permettant aux entreprises de comprendre et d'optimiser chaque étape du voyage client. Des moments personnalisés enchantent désormais les consommateurs, tandis que des campagnes hautement sophistiquées se déploient à grande échelle, adaptées à chaque canal de communication.
+Avec la Documentation de votre Parcours Client, les données proviennent désormais des bases de connaissances plutôt que des intégrations dispersées. Elle transforme un simple assistant conversationnel en chatbot d'intégration client, fournissant ainsi une expérience fluide et éclairante. L'orchestration automatisée du parcours client devient une réalité, permettant aux entreprises de comprendre et d'optimiser chaque étape du voyage client. Nous y précisons les informations contextuelles aux points de contact essentiels tels que les émotions des clients, les problèmes courants que vous avez identifiés ou les mesures à suivre pour une certaine étape.
 
 ### Après
 
