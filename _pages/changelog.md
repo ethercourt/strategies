@@ -49,7 +49,8 @@ Grâce à notre assistant conversationnel personnalisé, les entreprises témoig
 
 <br>
 
-[![Produits de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/2453dcbe-8dfc-44c8-ba1c-790496ff74b6)](https://py.pl/VkjieaAABv)
+![Client de Produits de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/6277b863-9ce3-4e96-a01d-87f7e12e6a0a)
+
 
 ### Avant
 
