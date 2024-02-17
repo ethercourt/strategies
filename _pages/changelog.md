@@ -17,7 +17,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------:|
 | Assistant conversationnel personnalisé  | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)  |
 | Documentation du Parcours Client                                        | [83 €]() |
-| Carte d'expérience Clients (Présentation des avantages concurrentiels)                          | [96 €](https://py.pl/VkjieaAABv)        |
+| Carte d'expérience Clients                       | [536 €]()        |
 | Assistant conversationnel personnalisé Dataroom (Mise à jour des Liens)                                              | [188 €/ mois]()                                    |
 | Carte d'expérience Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
 | Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                         |
