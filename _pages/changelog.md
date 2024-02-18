@@ -68,7 +68,9 @@ Après l'intégration de la Documentation de votre Parcours Client, la transform
 
 <br>
 
-[![avantages de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/e14967c2-5f26-4869-9df0-a887679a5379)](https://py.pl/VkjieaAABv)
+![xp de avantages de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/afffb585-6e64-4b95-9960-d06ed8db139b)
+
+
 
 ### Avant
 
