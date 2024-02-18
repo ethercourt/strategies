@@ -90,17 +90,14 @@ Avec Carte d'expérience Clients, les entreprises passent de la spéculation à 
 
 [![Mise à jour de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/36c22504-e747-4426-b582-17547649fffa)](https://py.pl/frMKn)
 
-### Avant : Les Limites d'une Assistance Traditionnelle
+### Avant
+Dans le domaine de la due diligence, vos investisseurs étaient souvent confrontés à des défis majeurs. Les processus manuels fastidieux et les outils traditionnels entraînaient des retards, des erreurs humaines et une gestion chaotique des transactions. Les équipes se trouvaient noyées sous un flot de données, rendant difficile la prise de décision éclairée et augmentant les risques de non-conformité.
 
-Les visiteurs du site web étaient confrontés aux limites d'une assistance traditionnelle. Les réponses aux questions les plus fréquentes étaient basiques, les interactions manquaient de personnalisation, et les visiteurs quittaient le site avec des questions sans réponse. Une frustration grandissante se faisait ressentir, entravant le potentiel de conversion.
+### Notre solution
+Ethercourt inaugure une nouvelle ère de diligence raisonnable avec son approche révolutionnaire intégrant l'intelligence artificielle. Notre suite d'outils d'IA, parfaitement intégrée à votre base de connaissances, offre une solution tout-en-un pour simplifier et optimiser chaque étape du processus de diligence. Des résumés intelligents à l'indexation de la dataroom virtuelle alimentée par l'IA, en passant par la revue de contrat automatisée, notre solution réduit les délais, minimise les erreurs et garantit une conformité accrue.
 
-### Notre Solution : L'Émergence d'une Assistance Révolutionnaire
-
-C'est dans ce contexte que Votre Chatbot devient l'épicentre d'une nouvelle ère d'assistance automatisée pour répondre aux besoins changeants des utilisateurs.
-
-### Après : Une Assistance Personnalisée, Votre Chatbot Redéfinit l'Expérience Client
-
-Avec l'implémentation de Votre Chatbot, l'assistance automatisée prend une nouvelle dimension. Les réponses sont personnalisées, les interactions deviennent plus fluides, et les visiteurs du site bénéficient d'une expérience client exceptionnelle, en tant que catalyseur de la satisfaction client, augmentant ainsi les taux de conversion.
+### Après
+Grâce à Ethercourt, vos investisseurs bénéficient d'une efficacité accrue et d'une gestion plus intelligente des transactions. Les processus automatisés réduisent le temps nécessaire à la structuration de vos documents financiers, permettant aux équipes de se concentrer sur des tâches à plus haute valeur ajoutée. La réduction des erreurs humaines et la conformité renforcée offrent une tranquillité d'esprit tout au long du processus, tandis que les insights instantanés facilitent la prise de décision éclairée.
 
 ## [`Je commande`](https://py.pl/frMKn) Une Mise à jour de mon Chatbot
 
