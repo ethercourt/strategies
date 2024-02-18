@@ -100,7 +100,7 @@ Ethercourt inaugure une nouvelle ère de diligence raisonnable avec son approche
 ### Après
 Grâce à Ethercourt, vos investisseurs bénéficient d'une efficacité accrue et d'une gestion plus intelligente des transactions. Les processus automatisés réduisent le temps nécessaire à la structuration de vos documents financiers, permettant aux équipes de se concentrer sur des tâches à plus haute valeur ajoutée. La réduction des erreurs humaines et la conformité renforcée offrent une tranquillité d'esprit tout au long du processus, tandis que les insights instantanés facilitent la prise de décision éclairée.
 
-## [`Je commande`](https://py.pl/frMKn) une IA dédiée à ma Dataroom
+## [`Je commande`](https://py.pl/frMKn) une IA dédiée à mes données financières
 
 <br>
 
