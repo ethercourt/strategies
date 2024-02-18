@@ -18,7 +18,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Assistant conversationnel personnalisé  | [790 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-22K940070W485634CMWMIZAY)  |
 | Documentation du Parcours Client                                        | [83 €]() |
 | Carte d'expérience Clients                       | [536 €]()        |
-| Assistant conversationnel personnalisé Dataroom (Mise à jour des Liens)                                              | [188 €/ mois]()                                    |
+| IA dédiée Dataroom                                       | [188 €/ mois]()                                    |
 | Carte d'expérience Investisseurs (Services sponsorisés)                                               | [243 €]()                       |
 | Correction white paper (Optimisation Page Entreprise)                                       | [346 €]()                                                         |
 | Services d'accélération d'entreprise  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
@@ -88,7 +88,8 @@ Avec Carte d'expérience Clients, les entreprises passent de la spéculation à 
 
 <br>
 
-[![Mise à jour de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/36c22504-e747-4426-b582-17547649fffa)](https://py.pl/frMKn)
+![dataroom de Mise à jour de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/9e9db8e3-d305-4a82-9644-fb009ec3757e)
+
 
 ### Avant
 Dans le domaine de la due diligence, vos investisseurs étaient souvent confrontés à des défis majeurs. Les processus manuels fastidieux et les outils traditionnels entraînaient des retards, des erreurs humaines et une gestion chaotique des transactions. Les équipes se trouvaient noyées sous un flot de données, rendant difficile la prise de décision éclairée et augmentant les risques de non-conformité.
@@ -99,7 +100,7 @@ Ethercourt inaugure une nouvelle ère de diligence raisonnable avec son approche
 ### Après
 Grâce à Ethercourt, vos investisseurs bénéficient d'une efficacité accrue et d'une gestion plus intelligente des transactions. Les processus automatisés réduisent le temps nécessaire à la structuration de vos documents financiers, permettant aux équipes de se concentrer sur des tâches à plus haute valeur ajoutée. La réduction des erreurs humaines et la conformité renforcée offrent une tranquillité d'esprit tout au long du processus, tandis que les insights instantanés facilitent la prise de décision éclairée.
 
-## [`Je commande`](https://py.pl/frMKn) Une Mise à jour de mon Chatbot
+## [`Je commande`](https://py.pl/frMKn) une IA dédiée à ma Dataroom
 
 <br>
 
