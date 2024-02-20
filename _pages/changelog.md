@@ -104,8 +104,7 @@ Grâce à Ethercourt, vos investisseurs bénéficient d'une efficacité accrue e
 
 <br>
 
-
-[![Entreprise de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/aed846ec-455a-425b-9126-05debebf79ff)](https://py.pl/23lYLEpIdvO)
+![RI de Entreprise de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/a71d40cd-3753-43de-9fd7-15b75c358d5a)
 
 ### Avant : La Représentation Limitée, un Défi de Communication
 
