@@ -21,7 +21,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | IA dédiée Dataroom                                       | [188 €/ mois]()                                    |
 | Carte d'expérience Investisseurs                                           | [243 €]()                       |
 | Rédaction white paper                                       | [346 €]()                |
-| Services d'accélération d'entreprise  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
+| Rédaction de votre base de connaissances  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
 | Services Datascience  | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
 
 
