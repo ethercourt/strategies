@@ -135,7 +135,8 @@ Avec l'implémentation d'Ethercourt, la gestion des connaissances devient intuit
 
 <br>
 
-[![datascience de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/86e706af-ff4b-4a5b-9ed4-0e4dbe4d2d85)](https://py.pl/3hppu8uqcvz)
+![Tokenization de datascience de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/d2691fdb-51e7-45c4-ae15-4259793198ca)
+
 
 ### Avant
 Les investisseurs étaient limités par les structures d'investissement traditionnelles, confrontés à des coûts élevés, des délais de règlement lents et un manque de transparence dans leurs investissements.
