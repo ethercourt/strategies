@@ -119,7 +119,8 @@ Grâce à notre solution, nos clients voient leur projet de ventes de tokens pre
 
 <br>
 
-[![Accélération de sur mesure  Dark Blue Modern Business Banner](https://github.com/weltare/strategies/assets/22855916/5b7b264e-4394-43e6-8258-231844f6ea37)](https://mailchi.mp/8fae6c867229/se-financer)
+![Base de Accélération de sur mesure  Dark Blue Modern Business Banner](https://github.com/ethercourt/strategies/assets/22855916/127713d6-9a87-448c-9fb1-24afecf65a2f)
+
 
 ### Avant
 La gestion des connaissances au sein des organisations était un défi constant. Les équipes passaient des heures à chercher des informations dispersées et à essayer de maintenir un niveau de collaboration efficace. Cela entraînait des retards, des erreurs et une frustration générale au sein de l'entreprise.
