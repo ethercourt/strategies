@@ -22,7 +22,7 @@ Prêt à réussir votre levée de fonds ? Faites le premier pas aujourd'hui !
 | Carte d'expérience Investisseurs                                           | [243 €]()                       |
 | Rédaction white paper                                       | [346 €]()                |
 | Rédaction de votre base de connaissances  | [369 €/ mois](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7K852342AT0889104MXAUJLI)  |
-| Services Datascience  | [750 €/ jour](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4U9433594D7935542MWMJNPI)                      |
+| Tokenisation de vos actifs  | [1 %/ transaction]()                      |
 
 
 <br>
