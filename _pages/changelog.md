@@ -130,7 +130,7 @@ Nous Rédigeons des documents et organisez vos connaissances afin de centraliser
 ### Après
 Avec l'implémentation d'Ethercourt, la gestion des connaissances devient intuitive et transparente. Les équipes accèdent rapidement aux informations pertinentes, ce qui se traduit par une efficacité accrue, des processus plus fluides et une culture d'entreprise renforcée.
 
-## [`Je m'inscris sur la liste d'attente pour être prévenu de la disponibilité du`](https://5j8k67tjxdz.typeform.com/to/Qb2lG6jA) Programme d'accélération en ligne WELTARE Strategies
+## [`Je m'inscris sur la liste d'attente pour être prévenu de la disponibilité du`](https://5j8k67tjxdz.typeform.com/to/Qb2lG6jA) Programme d'accélération en ligne
 
 
 <br>
